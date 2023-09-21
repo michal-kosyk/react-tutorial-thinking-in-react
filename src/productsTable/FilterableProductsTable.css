@@ -1,0 +1,13 @@
+.filterable-products-table {
+  padding: 10px 20px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.products-table-header {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}

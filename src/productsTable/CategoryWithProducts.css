@@ -1,0 +1,12 @@
+.out-of-stock {
+  color: red;
+}
+
+.product-category h2 {
+  text-align: center;
+}
+
+.product {
+  display: flex;
+  justify-content: space-between;
+}
